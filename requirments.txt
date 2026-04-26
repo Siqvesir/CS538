@@ -1,1 +1,15 @@
+Environment Requirments for CS538 Project
 
+To Use in a Terminal:
+1) Download DES_Atk.py.py (Note: Named with a .py in Windows as a python file caused the extra .py, will not run properly without .py.py)
+2) Ensure the Windows or Linux terminal have Python readily available
+3) Open the terminal from the location that DES_Atk.py.py is saved
+4) Use the command "python3 DES_Atk.py.py" in the cmd line
+5) Follow the User-input directions and then wait for it to run
+*The code takes 14+ minutes to run on my decently high-speced system, it may take longer or shorter on other systems*
+
+To Use in Google Collab:
+1) Copy the code within DES_Atk.py.py into a Google Collab project
+2) Run the code
+3) Follow the User-input directions and then wait for it to run
+*Note: When testing with Google Collab, I only pressed play and did not see if any errors occured after waiting through the whole process. Use this method at your own risk.
