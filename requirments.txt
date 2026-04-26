@@ -12,3 +12,10 @@ To Use in Google Collab:
 1) Copy the code within DES_Atk.py.py into a Google Collab project
 2) Run the code
 3) Follow the User-input directions and then wait for it to run
+
+Alternatively for Google Collab:
+1)Open the link in /docs to the Google Collab environment
+2)Run the code
+Follow the User-input directions and then wait for it to run
+
+*The code took approximately 17+ minutes when run using Google Collab
